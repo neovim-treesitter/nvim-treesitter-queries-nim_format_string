@@ -2,6 +2,6 @@
   "url": "https://github.com/aMOPel/tree-sitter-nim-format-string",
   "semver": false,
   "parser_version": "d45f75022d147cda056e98bfba68222c9c8eca3a",
-  "lang": "nim_format_string",
-  "location": null
+  "location": null,
+  "lang": "nim_format_string"
 }
